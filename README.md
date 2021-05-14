@@ -1,2 +1,4 @@
-<a href="#">
-<img src="https://user-images.githubusercontent.com/62477860/118235012-c27b3e80-b4b1-11eb-9e5c-ba30313f5a60.png" align="center"></a>
+<p align="center" ><img src="https://user-images.githubusercontent.com/62477860/118235730-c8bdea80-b4b2-11eb-9d92-4ffaa971aa33.png"></p>
+
+<h2 align="center">Building AI Models in no Time</h2>
+
